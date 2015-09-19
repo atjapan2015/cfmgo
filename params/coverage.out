@@ -1,0 +1,24 @@
+mode: set
+github.com/pivotal-pez/cfmgo/params/params.go:31.64,38.2 6 1
+github.com/pivotal-pez/cfmgo/params/params.go:40.58,47.2 6 1
+github.com/pivotal-pez/cfmgo/params/params.go:51.43,53.2 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:58.40,60.2 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:64.37,66.2 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:70.38,72.2 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:74.41,75.31 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:82.2,82.8 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:75.31,76.67 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:76.67,77.12 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:78.4,80.4 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:85.38,87.16 2 1
+github.com/pivotal-pez/cfmgo/params/params.go:93.2,93.8 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:87.16,89.24 2 1
+github.com/pivotal-pez/cfmgo/params/params.go:89.24,91.4 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:96.38,98.16 2 1
+github.com/pivotal-pez/cfmgo/params/params.go:104.2,104.8 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:98.16,100.17 2 1
+github.com/pivotal-pez/cfmgo/params/params.go:100.17,102.4 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:107.39,109.16 2 1
+github.com/pivotal-pez/cfmgo/params/params.go:115.2,115.8 1 1
+github.com/pivotal-pez/cfmgo/params/params.go:109.16,111.17 2 1
+github.com/pivotal-pez/cfmgo/params/params.go:111.17,113.4 1 1
