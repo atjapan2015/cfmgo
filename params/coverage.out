@@ -1,5 +1,5 @@
 mode: set
-github.com/pivotal-pez/cfmgo/params/params.go:31.64,38.2 6 1
+github.com/pivotal-pez/cfmgo/params/params.go:31.51,38.2 6 1
 github.com/pivotal-pez/cfmgo/params/params.go:40.58,47.2 6 1
 github.com/pivotal-pez/cfmgo/params/params.go:51.43,53.2 1 1
 github.com/pivotal-pez/cfmgo/params/params.go:58.40,60.2 1 1
