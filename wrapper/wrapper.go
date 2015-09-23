@@ -1,3 +1,4 @@
+//Wrapper is a simple helper to wrap API response data and errors in a consistent structure.
 package wrapper
 
 //ResponseWrapper provides a standard structure for API responses.

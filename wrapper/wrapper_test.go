@@ -16,7 +16,7 @@ import (
 )
 
 var _ = Describe("ResponseWrapper", func() {
-	Context("when the message is wrapped in Error", func() {
+	Context("when the message is wrapped with Error()", func() {
 		mx := mux.NewRouter()
 		mx.HandleFunc("/", func(w http.ResponseWriter, req *http.Request) {
 			err := errors.New("must feed a hamburger to the gnome before continuing")
@@ -50,7 +50,7 @@ var _ = Describe("ResponseWrapper", func() {
 		})
 	})
 
-	Context("when the is wrapped with One", func() {
+	Context("when the message is wrapped with One()", func() {
 		mx := mux.NewRouter()
 		mx.HandleFunc("/", func(w http.ResponseWriter, req *http.Request) {
 			params := Extract(req.URL.Query())
@@ -86,7 +86,7 @@ var _ = Describe("ResponseWrapper", func() {
 		})
 	})
 
-	Context("when the is wrapped with Collection", func() {
+	Context("when the message is wrapped with Collection()", func() {
 		mx := mux.NewRouter()
 		mx.HandleFunc("/", func(w http.ResponseWriter, req *http.Request) {
 			params := Extract(req.URL.Query())
