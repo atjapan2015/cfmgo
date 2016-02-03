@@ -17,7 +17,7 @@ type (
 		Count() (int, error)
 	}
 
-	//CollectionRepo - mgo collection adaptor
+	//CollectionRepo - mgo collection adapter
 	CollectionRepo struct {
 		Col     *mgo.Collection
 		session *mgo.Session
