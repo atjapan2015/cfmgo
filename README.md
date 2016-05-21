@@ -7,7 +7,7 @@ A MongoDB integration package for Cloud Foundry
 
 ## Usage
 
-`go get github.com/pivotal-pez/cfmgo`
+`go get github.com/cloudnativego/cfmgo`
 
 ```go
 appEnv, _ := cfenv,Current() //relies on github.com/cloudfoundry-community/go-cfenv
